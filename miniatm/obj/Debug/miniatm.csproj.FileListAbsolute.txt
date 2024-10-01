@@ -1,0 +1,7 @@
+C:\Users\furka\OneDrive\Masaüstü\c sharp\miniatm\bin\Debug\miniatm.exe.config
+C:\Users\furka\OneDrive\Masaüstü\c sharp\miniatm\bin\Debug\miniatm.exe
+C:\Users\furka\OneDrive\Masaüstü\c sharp\miniatm\bin\Debug\miniatm.pdb
+C:\Users\furka\OneDrive\Masaüstü\c sharp\miniatm\obj\Debug\miniatm.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\c sharp\miniatm\obj\Debug\miniatm.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\c sharp\miniatm\obj\Debug\miniatm.exe
+C:\Users\furka\OneDrive\Masaüstü\c sharp\miniatm\obj\Debug\miniatm.pdb
